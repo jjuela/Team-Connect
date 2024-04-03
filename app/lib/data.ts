@@ -256,7 +256,7 @@ export async function getWatchParties(teamId: string, userLocation: any) {
   // look up requests library for API call to Sports DB
 }
 
-
+/*
 export async function getHomepage(userId: string) {
   try {
     const user = await getUser(userId); 
@@ -282,4 +282,4 @@ export async function getHomepage(userId: string) {
     throw new Error('Failed to fetch homepage data.');
   }
 }
-
+*/
