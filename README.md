@@ -1,4 +1,4 @@
-## TeamConnect Next.js App Router Course - Starter
+## TeamConnect
 
 Using Next.js App Router Course as a template for my app.
 
